@@ -1,0 +1,76 @@
+body{
+    text-align: lift;
+    background: #000000;
+    }
+    #logo h1{
+    color: #BCBAC0;
+    font-size: 100px;
+    margin: 0;
+    padding:0 50px 0 0;
+    font-family: myHeadings;
+    }
+    #logo p{
+    font-size: 30px;
+    font-family: myTexts;
+    color: #E1E4EB;
+    padding:0 100px 0 0;
+    margin:0;
+    direction: ltr;
+    }
+    
+    #container{
+    margin-top: 80px;
+    }
+    #container h2{
+    font-size: 60px;
+    color: #BCBAC0;
+    font-family: myHeadings;
+    margin: 0;
+    padding:0;
+    }
+    .box{
+    width: 400px;
+    margin-left: 20px;
+    float: right;
+    border: 1px solid #BCBAC0;
+    padding: 5px;
+    }
+    
+    .box:hover{
+    border: 3px solid #BCBAC0;
+    }
+    
+    .box img{
+    float: right;
+    margin: 13px 0 0 10px;
+    }
+    
+    .box h3{
+    padding:0;
+    margin: 0;
+    color: #BCBAC0;
+    font-family: myHeadings;
+    font-size: 38px;
+    }
+    
+    .box p{
+    color: #E1E4EB;
+    font-family: myTexts;
+    font-size: 26px;
+    margin: 0;
+    padding:0;
+    line-height: 1.2em;
+    }
+    
+    #bottom{
+    clear: both;
+    padding-top: 50px;
+    text-align: center;
+    }
+    #bottom img{
+    max-width: 50px;
+    }
+    #bottom ul li{
+    display: inline;
+    margin-left: 50px;
+    }
